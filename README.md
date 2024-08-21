@@ -1,1 +1,3 @@
-# tvb_microstates
+# TVB microstates
+- EEG microstate analysis on synthetic data from [The Virtual Brain (TVB)](https://www.thevirtualbrain.org/tvb/zwei) simulator.
+- early stage...
